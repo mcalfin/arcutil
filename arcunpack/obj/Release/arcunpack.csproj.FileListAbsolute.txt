@@ -1,0 +1,14 @@
+Z:\projects\arcunpack\arcunpack\bin\Release\arcunpack.exe.config
+Z:\projects\arcunpack\arcunpack\bin\Release\arcunpack.exe
+Z:\projects\arcunpack\arcunpack\bin\Release\arcunpack.pdb
+Z:\projects\arcunpack\arcunpack\obj\Release\arcunpack.csproj.CoreCompileInputs.cache
+Z:\projects\arcunpack\arcunpack\obj\Release\arcunpack.exe
+Z:\projects\arcunpack\arcunpack\obj\Release\arcunpack.pdb
+Z:\projects\arcunpack\arcunpack\obj\Release\arcunpack.csprojAssemblyReference.cache
+C:\Users\mcalf\Downloads\arcunpack\arcunpack\bin\Release\arcunpack.exe.config
+C:\Users\mcalf\Downloads\arcunpack\arcunpack\bin\Release\arcunpack.exe
+C:\Users\mcalf\Downloads\arcunpack\arcunpack\bin\Release\arcunpack.pdb
+C:\Users\mcalf\Downloads\arcunpack\arcunpack\obj\Release\arcunpack.csproj.CoreCompileInputs.cache
+C:\Users\mcalf\Downloads\arcunpack\arcunpack\obj\Release\arcunpack.exe
+C:\Users\mcalf\Downloads\arcunpack\arcunpack\obj\Release\arcunpack.pdb
+C:\Users\mcalf\Downloads\arcunpack\arcunpack\obj\Release\arcunpack.csprojAssemblyReference.cache
